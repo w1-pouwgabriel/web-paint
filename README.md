@@ -1,4 +1,4 @@
-# web-visio
+# web-paint
 
 ## Project setup
 ```
